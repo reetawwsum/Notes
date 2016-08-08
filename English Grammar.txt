@@ -1,0 +1,730 @@
+Sentence Structure
+==================
+
+Lesson 1:
+
+Sentence
+---------
+Group of words that expresses a complete thought.
+For e.g Sushan and I are going to lunch.
+
+Sentence Fragment
+-----------------
+Group of words that doesn't express a complete thought.
+Acceptable in verbal or in conversation (for e.g chat).
+Non-acceptable in writing.
+Never give punctuation to them.
+For e.g Out to lunch
+
+Rules:
+In writing, a sentence always begins with a capital letter.
+Always ends with a punctuation mark.
+
+Punctuation marks:
+Period (.)
+Question mark (?)
+Exclamation point (!)
+
+Kinds of Sentences:
+Declarative - States a fact. For e.g The sun is shining today.
+-----------
+Interrogative - Asks a question. For e.g Do you have any plans for this afternoon?
+-------------
+Exclamatory - Expresses a strong emotion. For e.g What a beatiful day for a picnic!
+-----------
+Imperative - Makes a request or gives an order. For e.g Come with me!
+----------
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lesson 2:
+
+Parts of a Sentence:
+
+Subject:
+--------
+who or what the sentence is talking about.
+The most important word in the subject is the simple subject.
+
+Predicate:
+---------
+what the subject is or does.
+The most important word in the predicate is the verb.
+
+Note: Verb is a word that expresses an action or state of being.
+
+For e.g
+My younger sister Ingrid once worked as a costume designer.
+------------------------ ---------------------------------
+	subject                         Predicate
+
+Simple Subject - Ingrid
+--------------
+Verb - worked
+----
+
+Compound Subject:
+----------------
+Two or more things that worked together as a subject by the word "and" or the word "or".
+For e.g Dogs and cats sometimes enjoy living together.
+
+Compound Verb:
+-------------
+Two or more verbs that describe what the subject does, joined by the word "and" or the word "or".
+For e.g The giant tree bent and swayed in the wind.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lesson 3:
+
+Clause:
+------
+A group of words that includes both a subject and a verb.
+
+Two kinds of clause:
+Independent clause
+------------------
+can stand alone as a sentence because it expresses a complete thought.
+For e.g Europa is one of the moons of Jupiter.
+
+Subordinate clause
+------------------
+can't stand alone as a sentence because it doesn't express a complete thought.
+Usually starts with a subordinate conjunction. 
+Conjunction connects two groups of words. For e.g if, after, because, since, when, until.
+For e.g Because Europa has oceans filled with water, like the earth.
+
+Four types of sentence structure:
+---------------------------------
+
+1. Simple sentence
+------------------
+consists of one independent clause.
+For e.g Life may exist in Europa.
+
+2. Compound sentence
+--------------------
+consists of two or more independent clause.
+Joined by comma (,) and a coordinating conjuction (and, or, but), or a semicolan (;)
+For e.g Many astronomers believe in ET, but others disagree.
+Many astronomers believe in ET; others disagree.
+
+3. Complex sentence
+-------------------
+contains an independent clause and one or more subordinate clauses.
+For e.g If ET life will ever discover, it will change human history.
+
+4. Compound-complex sentence
+----------------------------
+contains two or more independent clauses, and one or more subordinate clauses.
+For e.g Although no sign of life on others world has yet been found, the search continues, and many predict success.
+
+Grammatical Error
+-----------------
+A subordinate clause cannot stand alone as a sentence - that is a sentence fragment.
+
+A Run-on Sentence
+-----------------
+includes two or more independent clauses that are joined only by a comma or nothing at all.
+
+Semicolon connects the independent clauses.
+
+Imperative clause
+-----------------
+For e.g Visit the city science museum.
+Verb: Visit
+Subject: You
+
+
+=========================================================================================================================
+
+Parts of Speech
+===============
+
+Lesson 1:
+
+Nine Parts of Speech:
+verbs              adjectives       prepositions
+nouns			   articles         conjuctions
+pronouns		   adverbs          interjections
+
+Verbs
+-----
+expresses action done by or to the subject, or it expresses a state of being of the subject.
+For e.g go, decorate, believe, is, and appears.
+
+Verbs may contain more than one word. Then, it is called verb phrase. It is made up of main verb and a helping verb.
+For e.g had gone, will decorate, must believe, should have been, may appear
+
+Verb tenses are used to express the time when an action or a state of being takes place.
+
+Nouns
+-----
+A noun names a person, a place, a thing, or an idea.
+For e.g student, Barbara, sofa, freedom
+
+Types of nouns:
+Common noun - names a category. For e.g student, sofa
+Proper noun - names a specific example (It beings with capital letter) For e.g Barbara
+
+Nouns may be singular or plural.
+
+Pronouns
+--------
+A pronouns takes the place of noun, or group of nouns.
+For e.g he, she, it, we, any, some, which, someone, who.
+
+Always avoid repeatation in writing.
+
+The word or words that a pronoun refers to is called the antecedent of the pronoun.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lesson 2:
+
+Adjectives, Articles, and Adverbs
+
+All three are modifiers.
+
+Adjectives:
+----------
+It modifies a noun or a pronouns.
+For e.g large, ununsual, green, impossible.
+a large boat.
+
+It comes usually before a noun.
+It can come after a verb of being.
+For e.g This task is impossible.
+
+Sometimes a noun or a pronoun can be used as a adjective.
+For e.g I like to watch baseball.
+Baseball - Noun
+Willie was a great baseball player.
+Baseball - Adjective
+
+Which is your favourite player?
+which - Pronoun
+Which sport do you enjoy the most?
+which - Adjectives
+
+Articles:
+--------
+It introduces a noun.
+a - indefinite article
+an - indefinite article (It is used in front of a word that begins with a vowel sound)
+the - definite article
+For e.g I would like an apple for lunch.
+
+Adverbs:
+-------
+It modifies a verb, or an adjective, or another adverb.
+
+It often end with -ly, but not always.
+
+For e.g
+quickly, soon, very, rather, too, not.
+He walks quickly. (Modifying a verb)
+He is very quick. (Modifying a adjective)
+He walks too quickly for me. (Modifying a adverb)
+
+The adverb not is often contracted to n't.
+
++++++++++++++++++++++++++++++++++++++++++++++
+
+Lesson 3:
+
+Connective Words:
+----------------
+
+Prepositions:
+------------
+It relates a noun or pronoun to another part of the sentence.
+For e.g in, for, by, from, with, to, below, through
+according to, because of, instead of
+
+Always followed by either a noun or a pronoun. (most often a noun), and the combination is called prepositional phrase.
+For e.g
+in my house, from New York.
+
+Conjunctions:
+-------------
+It connects two or more other words.
+
+Coordinating Conjunctions:
+--------------------------
+join a pair of words, phrases, or a clauses.
+and, but, or, nor, for, yet, and so.
+
+Subordinating Conjunctions:
+---------------------------
+connects clauses, making the clause that follows the conjunction a subordinate clause.
+For e.g if
+
+Difference
+----------
+Coordinating conjunction connects two things that are more or less equal in importance.
+Subordinating conjunction joins an independent clause and a clause which is subordinate.
+
+Correlative Conjunctions:
+------------------------
+comes in pair.
+For e.g
+both..and
+either..or
+neither..nor
+not only..but also
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lesson 4:
+
+Interjections:
+-------------
+Expresses a strong emotion, and is not grammatically connected to the rest of the sentence.
+For e.g Gosh!, D'oh!
+
+How to recognize Parts of Speech:
+---------------------------------
+Look for main verb first.
+Look for subject of the verb.
+Then identify modifying words and connecting words.
+
+The same word may be used as more than one part of a speech.
+
+==================================================================================================
+
+Sentence Complements
+====================
+
+Lesson 1:
+
+Three kinds of Verbs:
+--------------------
+
+Transitive verbs:
+----------------
+Expresses action that passes from the subject of the verb to an object of the verb.
+It is always an action verb.
+For e.g Omar types the letter.
+
+Intransitive verbs:
+------------------
+Expresses action that doesn't have an object.
+For e.g Elliot slept.
+
+Linking verbs:
+--------------
+Expresses a state of being. It links subject to another word in the sentence.
+For e.g Kareem is a school teacher.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lesson 2:
+
+Three kinds of Sentence Complements:
+
+Direct Objects:
+--------------
+
+It is a noun or pronoun that receives the action of a transitive verb.
+They may be compound.
+For e.g Elaine washed her car.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lesson 3:
+
+Indirect Objects
+----------------
+
+It is a noun or pronoun that answers the question to what? to whom? for what? or for whom?
+It comes in between the verb and the direct object in the sentence.
+For e.g Andrea told her mother the good news.
+
+An indirect object is not the object of a preposition.
+For e.g Andrea told good news to her mother.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lesson 4:
+
+Subject Complements
+-------------------
+It is a noun, pronoun, or an adjective that follows a linking verb and refers to, describes, or modifies the subject.
+For e.g Virginia was a novelist.
+Subject Complements - novelist
+
+=======================================================================================================================
+
+Verbs
+=====
+
+Lesson 1:
+
+Verb Tenses
+-----------
+It defines the time when the action occurs. It consists of two parts:
+1. the principal part of the verb.
+2. helping verb
+
+Four principal part of verb:
+----------------------------
+1. the infinitive
+- basic form of the verb.
+For e.g cook
+
+2. the present participle
+- ends in the -ing
+- it is always use with the helping verb (to be).
+For e.g cooking 
+
+Note: Gerund is used in place of noun. Also ends with -ing.
+For e.g Cooking is my hobby.
+
+3. the past
+- ends with -ed
+For e.g cooked
+
+4. the past participle
+- ends with -ed
+- it is always use with the helping verb (to have).
+For e.g have cooked 
+
+Six most important Verb Tenses:
+-------------------------------
+1. Present Tense
+describes action happening now.
+formed using infinitive or basic form of the verb.
+For e.g I cook breakfast every morning.
+
+2. Past Tense
+describes action happening in past.
+formed from past form of the verb.
+For e.g He cooked dinner last night.
+
+3. Future Tense
+describes action in the future
+formed by using basic form of the verb by preceeding by the helping verb "will".
+For e.g He will cook dinner for us tomorrow.
+
+4. Present Perfect Tense
+describes action happening in the past up to the present.
+formed by taking past participle and putting in front of it the present tense of the verb "to have".
+For e.g He has cooked breakfast for his family every day for the last year.
+
+5. Past Perfect Tense
+describes action happening in the past before some other past-tense action.
+formed by taking past participle and putting in front of it the past tense of the verb "to have".
+For e.g He had cooked dinner when suddenly the doorbell rang.
+
+6. Future Perfect Tense
+describes action happening in the future before some other future-tense action.
+formed by taking past participle and putting in front of it the future tense of the verb "to have".
+For e.g He will cook dinner tomorrow night, and then he will have cooked dinner every night for a week.
+
+Diagram:
+
+----------------------------------------------------------------------------------------
+                    |                         |                        |
+                   Past 					Present 				Future
+                    -------------------------->
+                       Present Perfect Tense
+------------------->
+Past Perfect Tense
+												-------------------->
+												Future Perfect Tense
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lesson 2:
+
+Irregular Verbs
+---------------
+have past and past participle forms that are not made by adding -ed.
+For e.g "to be"
+be - infinitive
+being - present participle
+was - past
+been - past participle
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lesson 3:
+
+The Subjunctive Mood
+-------------------
+1. to express a formal request or recommendation in a clause beginning with the word "that." 
+The subjunctive mood of the verb is formed the same way as the infinitive or basic form of the verb.
+For e.g She asked that the workers complete their reports by the end of the day.
+
+2. to describe an unreal or doubtful condition. Often, this is in a clause beginning with the word "if."
+In the present, the subjunctive mood verb looks the same as the past tense of the verb.
+For e.g If I had a million dollars, I would travel around the world.
+In the past, the subjunctive mood verb looks the same as the past perfect tense of the verb.
+For e.g If he had left the starting block faster, he would have won the race.
+
+===========================================================================================================
+
+Pronouns
+========
+
+Lesson 1:
+
+Kinds of Pronouns:
+-----------------
+
+Four most important Pronouns:
+1. personal
+refers to the person speaking, the person being spoken to, or the person or thing being spoken about.
+For e.g I, me, he, him, she, her, they, us, we, you
+
+Pronoun can be either singular or plural.
+A pronoun should match its antecedent in number.
+"You" is both singular and plural.
+
+2. interrogative
+introduces a question. Direct or indirect.
+For e.g who, whom, whose, which, what
+
+3. indefinite
+refers to unspecified person, place, thing, or idea.
+For e.g all, anyone, both, each, everybody, many
+
+4. relative
+is used to introduce a subordinate clause.
+For e.g who, whom, that, which, whose
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lesson 2:
+
+Pronoun Case:
+------------
+
+Personal pronouns always take one of three cases:
+1. subjective case
+used when pronoun is a subject or a subject complement.
+I, you, he, she, it, we, they
+For e.g The fastest runner on the track team is she.
+
+2. objective case
+used when pronoun is a direct object, an indirect object, or the object of preposition.
+me, you, him, her, it, us, them
+For e.g The nominating committee selected him.
+
+3. possessive case
+used when pronoun shows possession or ownership.
+my, mine, your, yours, his, its, our, ours, their, theirs
+
+Two ways to use possessive case:
+a. like an adjective, to modify a noun.
+For e.g Dr. Chan took his car to garage.
+
+b. standing alone, and not modifying a noun.
+For e.g The mechanic asked Dr. Chan if the violin in the back seat was his.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lesson 3:
+
+Using pronoun cases correctly:
+-----------------------------
+
+Using who or whom:
+
+Who is in subjective case, and must be use as subject of the verb.
+For e.g Who is favourite actor?
+Whom is in objective case, and must be use as object of the verb, or as the object of preposition.
+For e.g Whom did you invite to the party?
+
+Choosing right pronoun in elliptical clause beginning with "than" or "as"
+
+Tip: Fill in the omitted words, in order to identify the pronoun case.
+
+Elliptical clause:
+It is a clause from which a few words have been omitted since the clause is understandable without these words.
+For e.g Eduardo is better dancer than I.
+
+When a pronoun is used in a compound subject or a compound object, use the same case as if the subject or object were not compound.
+For e.g She and Rafael spend the winter holiday in Sao Paulo.
+
+=====================================================================================================================================
+
+Agreement
+=========
+
+Lesson 1:
+
+Singular and Plural
+-------------------
+
+The Basic Rules:
+In case of noun, plural ends in "s" or "es".
+In case of verb, singular ends in "s" or "es".
+For e.g
+She jumps, They jump
+
+A singular subject must have a singular verb, and vice versa.
+
+When subject of the verb is a collective noun, use either singular or plural verb depending on how the noun is used.
+a. When the noun refers to the group as a whole, use a singular verb.
+b. When the noun refers to the group as individuals, use a plural verb.
+
+A subject describes an amount is singular.
+For eg. One million dollars is a lot of money.
+
+The phrase "the number" is singular, and the phrase "a number" is plural.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lesson 2:
+
+Fine points of subject-verb agreement
+-------------------------------------
+
+When the subject of the sentence is compound and joined by "and", usually use a plural verb.
+Exceptions:
+1. If two parts together make up one thing, use a singular verb.
+For e.g The skull and crossbones was a famous pirate symbol.
+2. If two parts of the compound subject are preceded by "each" or "every", use a singular verb.
+
+When the subject of the sentence is compound and joined by "or", the verb should match the subject that is closest to the verb.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lesson 3:
+
+Pronoun-Antecedent Agreement
+----------------------------
+
+Basic rules:
+1. A pronoun must agree with its antecedent in number (singular or plural).
+2. A pronoun must agree with its antecedent in gender (masculine, feminine, or neuter).
+
+===============================================================================================================================
+
+Modifiers
+=========
+
+Lesson 1:
+
+Adjectives and Adverbs
+----------------------
+
+Rules:
+1. After an action verb, use an adverb.
+2. After a linking verb, use an adjective.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lesson 2:
+
+Misplaced and dangling modifiers
+--------------------------------
+
+Modifying phrases and clauses can cause confusion:
+
+1. When a modifier is separated from the word or words, it modifies, causing confusion, it is called a misplaced modifier.
+For e.g Painted bright yellow, the decorator selected a new cabinet for the kitchen.
+
+2. When a modifier has no word or words to modify, it is called a dangling modifier.
+For e.g While driving to work yesterday morning, an accident delayed traffic on the highway.
+
+Rewrite these sentences to avoid confusion.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lesson 3:
+
+Comparison using modifiers
+--------------------------
+
+Three degrees of comparison:
+1. the positive degree
+It makes no comparison.
+For e.g the tall building
+
+2. the comparative degree
+It compares two people, things, actions, or qualities.
+Formation:
+a. It formed by adding -er to a one-syllable adjective or adverb.
+b. It formed by adding "more" in front of an adjective or adverb that is three syllables long or longer.
+For e.g a taller building than this one.
+a more colorful landscape than any other.
+
+3. the superlative degree
+It compares three or more people, things, actions, or qualities.
+Formation:
+a. formed by adding -est to a one-syllable adjective or adverb.
+b. formed by adding "most" in front of an adjective or adverb that is three syllables long or longer.
+For e.g the most colorful landscape in the state.
+
+Note: If an adjective or adverb is two syllables long, use your judgement and your "ear" to decide how to form the comparative and superlative forms.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lesson 4:
+
+Special problems with comparisons
+---------------------------------
+
+1. Avoid making double comparison.
+For e.g After dinner, the band began playing a series of more livelier melodies.
+
+2. Some adjectives are "absolute" and cannot be compared.
+For e.g first, last, equal, unique
+
+3. Make sure that the items being compared are truly comparable. If not, reword as necessary.
+
+=============================================================================================================================
+
+Parallel Structure
+==================
+
+Lesson 1:
+
+Understanding Parallelism
+-------------------------
+
+Parts of sentence that have similiar meanings should be written in grammatically similiar forms.
+
+Rules:
+1. When listing two or more things, qualities, or actions, describe them in parallel grammatical forms.
+For e.g America's founders were prepared to risk everything: their property, their reputations, and their lives.
+
+2. Use parallelism to link related ideas and emphaisize the relationships between them.
+For e.g Love of country is admirable, but today love of humanity is necessary.
+
+3. When using parallel construction, build to a climax. Which means when you're presenting a number of ideas in a sequence, it's best to end with the most interesting, most important, or most dramatic item.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lesson 2:
+
+Common errors in parallelism
+----------------------------
+
+1. Avoid mixing words, phrases, and clauses.
+
+2. Avoid mixing gerunds and infinitives.
+
+3. Avoid mixing active and passive verbs.
+
+4. Sentence elements linked with the coordinating conjunctions
+	either ... or
+	neither ... nor
+	not only ... but also
+	should be grammatically parallel.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lesson 3:
+
+Using Ellipsis
+--------------
+
+Ellipsis is when certain words are omitted after one use. Omitted must be understood quickly.
+
+To test ellipsis, mentally complete all the clauses in the sentence. Make sure they are logically and grammatically parallel. If not, revise the sentence to either fix the parallelism or eliminate the use of ellipsis.
+
+==============================================================================================================================

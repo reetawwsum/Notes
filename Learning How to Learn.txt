@@ -1,0 +1,363 @@
+Learning How to Learn: Powerful mental tools to help you master tough subjects
+==============================================================================
+
+Week 1
+======
+
+Lesson 1
+========
+Focused versus Diffuse Thinking
+
+Introduction to the Focused and Diffuse Modes
+---------------------------------------------
+Understanding how a brain works helps to learn easily and be less frustating.
+
+Modes of thinking:
+a. Focused - Inferencing previous knowledge.
+Concentrating on single task using working memory.
+b. Diffuse - Deducing and creating new knowledge.
+Randomly thinking various ideas, while transversing long term memory.
+
+Being in one mode, restrict access in the other mode of thinking.
+
+Terrence Sejnowski and Barbara Oakley--Introduction to the Course Structure
+---------------------------------------------------------------------------
+Learning How to Learn is for you—it’s meant to give you practical insight on how to learn more deeply and with less frustration. The lessons in this course can help you in learning many different subjects and skills. Whether you love language or math, music or physics, psychology or history, you'll have a lot of fun, and learn a LOT about how to learn!
+
+Apply the following techniques to learn new ideas everyday.
+
+Using the Focused and Diffuse Modes--Or, a Little Dali will do You
+------------------------------------------------------------------
+When learning a new idea, mind should go back and forth between the two learning modes.
+A little bit, every day to build the neural network of an idea.
+
+Summary:
+Analogies provide techniques for learning.
+Focused and diffused.
+Learning something difficult takes time.
+
+What is Learning?
+-----------------
+We are not consciously aware of how our brains work. Brains evolved to help us navigate complex environments, and most of the heavy lifting is done below our level of consciousness. 
+
+And we don't need to know how it's done in order to survive.
+
+You are not the same person you were after a night's sleep or even a nap. It is if you went to bed with one brain and woke up with an upgrade.
+
+Lesson 2
+========
+Procrastination, Memory, and Sleep
+
+A Procrastination Preview
+-------------------------
+Issue with procrastination is when you're working on something, then you're not working in some other things.
+For others, they feel unhappy while doing some work, hence shifted to other tasks, resulting in procrastination.
+
+Tool to avoid procrastination:
+Pomodoro:
+Set timer for 25 minutes
+No interruptions
+focus
+reward
+
+Practice Makes Permanent
+------------------------
+Ideas which are abstract in nature are hard to grasp, but a mind with creative thinking can master it very well.
+More the abstract the idea is, more the time it is needed to grasp the full understanding of it. Hence, do more practice.
+Take a break after learning to put your mind into diffuse mode in order to build the strong neural structure for the new idea.
+
+Introduction to Memory
+----------------------
+Long term memory: Memories of past experience (Secondary Memory)
+Short term memory (Working memory): Key ideas, a person is currently using. (Primary Memory)
+
+Short term memory is very limited. 
+Long term memory is very vast, but storing data in neural activity requires multiple iteration of learning.
+
+New ideas goes to working memory, and if you want to remember it for long time, move it to long term memory using a technique:
+Spaced Repetition:
+Extending your practice for several days.
+Learning everything in a single day won't do any good, because everything needs practice, or generalise it so well that your neural network doesn't need more training dataset.
+
+The importance of sleep in learning
+-----------------------------------
+Staying awake creates toxic products in the brain.
+During sleep, brain cells shrink and toxic waste flow increase.
+During sleep, learning happens while going through the neural network created.
+
+Interview with Dr. Terrence Sejnowski
+-------------------------------------
+Context switching is method to do multi-tasking.
+Environment plays a very important role in learning.
+But, in absence of nourish environment, exercise leads to production of new neurons.
+Success comes with passion and persistence.
+Don't let go of your passion.
+If struck, then look at the things with different perspective.
+
+===================================================================================================
+
+Week 2
+======
+
+Lesson 1
+========
+Chunking—The Essentials
+
+Introduction to Chunking
+------------------------
+Chunking
+Illusion of Competence
+
+What is a Chunk?
+---------------
+Smallest piece of information stored in memory, which along with other similar information forms an idea.
+Chunking helps in memorizing faster, and retrival efficiently.
+Chunking leads to finding pattern in the data by understanding the context of the information.
+
+How to Form a Chunk - Part 1
+----------------------------
+In order to learn a new idea, divide the idea into chunks of data and learn the relationship between those chunks.
+Practicing smaller chunks will lead to creation of larger chunks naturally.
+Initially working on solved example will guide how to break the information into chunks and the relationship between them.
+
+How to Form a Chunk - Part 2
+----------------------------
+Steps to learn using Chunks:
+a. Focus your undivided attention on the information you want to chunk.
+b. Understanding the chunks and their relationship between each other.
+c. Practice bottom up (Chunks to context) and top down (Big picture to context) to make it your skill.
+
+Learning the context will enable to learn when to use a particular technique instead of other similar techniques.
+Practice will lead to understanding the scope of chunks and where to use them.
+Always get the big picture first, so that when grasping the various chunks of data, you will learn the relationship between them and where they fit in the big picture.
+
+Illusions of Competence
+-----------------------
+Recall is better than reading the notes after some time.
+Practicing and recalling should go turn by turn in order to grasp the deeper levels.
+
+Recall results in creating neural activity for future inference.
+
+Avoid illusions of Competence, which usually occurs when glacing at the answer and without understanding, moving on to next problem.
+
+In order to see, if you're avoiding illusions of competence, always take self mini-tests by recalling the material learned.
+Making mistakes leads to judging which part of the network is missing, and creating it again in order to succeed.
+
+Always recall and think in different environment to avoid environmental effect on the leanring.
+
+Lesson 2
+========
+Seeing the Bigger Picture
+
+What Motivates You?
+------------------
+Neuromodulators are chemicals that influence how a neurons responds to other neurons.
+Three types:
+a. Acetylcholine
+Acetylcholine neurons form neuromodulatory connections to the cortex that are particularly important for focused learning, when you are paying close attention.
+
+b. Dopamine
+Dopamine neurons are part of a large brain system that controls reward learning. Dopamine is in the business of predicting future rewards and not just the immediate reward. This can motivate you to do something that may not be rewarding right now but will lead to a much better reward in the future.
+
+c. Serotonin
+Serotonin is a third diffuse neuromodulatory system that strongly affects your social life. The level of Serotonin is also closely linked to risk taking behavior.
+
+The Value of a Library of Chunks
+--------------------------------
+In order to enhance the knowledge and gain expertise, create large number of chunks and practice. Chunk library.
+
+Two ways to solve a problem:
+a. Sequential thinking (Comes from focused thinking)
+b. Intuition (Comes from Diffuse thinking, but better verify the heuristics using focused thinking)
+
+Law of Serendipity states persistence will take you to success.
+Lady luck favors the one who tries.
+
+Overlearning, Choking, Einstellung, and Interleaving
+----------------------------------------------------
+Overlearning is good in order to avoid choking, but for the longer run, in order to generalise your idea, avoid overlearning the same think.
+Overlearning also avoid finding new solutions, since your mind will keeps on going back to overlearned topic. This is known as Einstellung.
+Interleaving results in mixing up the learning. It builds flexibility and creativity.
+
+===============================================================================================================================
+
+Week 3
+======
+Procrastination and Memory
+
+Lesson 1
+========
+Procrastination
+
+Introduction to Procrastination and Memory
+------------------------------------------
+Procrastination and Memory are related.
+
+Tackling Procrastination - It's Easier, and More Valuable, Than You Think
+-------------------------------------------------------------------------
+Good learning is bit by bit activity.
+Procrastination is easy to come by, unlike will power. Hence, don't waste will power fighting procrastination.
+Procrastination is result of irrational excuses.
+Long term effect of procrastination is not good.
+
+Zombies Everywhere
+------------------
+Chunking leads to habits, and habits are energy saver for us. It allows us to free our minds for other types of activities. While doing a habit, person is said to be in zombie mode.
+Habits have four parts:
+a. The cue
+b. The routine
+c. The reward
+d. The belief
+
+Zombie mode is good as well as bad. Main idea is believing what reward you want in your life, and finding a cue to start a routine in order to fulfill your belief in the zombie mode.
+
+Surf's Up: Process Versus Product
+---------------------------------
+In order to avoid procrastination, stop focusing on end product, and only focus on process.
+Process relate to simple habits. Hence, use zombie mode in order to get end product, while continously thinking about the process in hand.
+Focusing a process can be done via Pomodoro.
+
+Harnessing Your Zombies to Help You
+-----------------------------------
+The trick to override a habit is to look to change your reaction to a cue. The only place you need to apply willpower is to change your reaction to the cue.
+
+a. The cue
+Recognize what launches you in to your zombie procrastination mode.
+Cues falls into four categories
+i. location
+ii. time
+iii. how you feel
+iv. reactions
+
+b. The routine
+Rewire your routine to avoid zombie procrastination mode.
+i. Plan
+Don't change everything at once.
+
+c. The reward
+Find the reason of procrastination.
+Give yourself a new reward in order to overcome your previous one.
+
+d. The belief
+Believe that the new system works.
+
+Juggling Life and Learning
+--------------------------
+Write weekly list of key tasks.
+Daily "to do" list.
+Free working memory for problem solving, rather than remembering stuff, even for short period of time.
+Plan your quitting time.
+Always have leisure time.
+Do most difficult task first; at least one pomodoro.
+Have backup plans for when you still procrastinate.
+
+Lesson 2
+========
+Memory
+
+Diving Deeper into Memory
+-------------------------
+Always use visual and spacial memory systems to remember hard topics.
+Spaced repetition is very beneficial.
+Interleave your learning.
+
+What is Long Term Memory?
+------------------------
+Hippocampus (lower part of brain) is responsible for storing new memories in the brain.
+Whenever you recall a memory, it changes, a process called, reconsolidation. It is even possible to implant false memories, which are indistinguishable from real ones by simply suggesting and imagining, especially in children who have vivid imaginations.
+
+In addition to neurons, brains have several types of supporting cells called glial cells. The astrocyte is the most abundant glial cell in the human brain. Astrocytes provide nutrients to neurons, maintain extra cellular ion balance, and are involved with repair following injury. Astrocytes may also have an important role in learning.
+
+Creating Meaningful Groups and the Memory Palace Technique
+----------------------------------------------------------
+Create meaningful groups to memorize an idea.
+In order to memorize dates, associate them to certain events in your life or general things.
+Memorizing list of things can be done via sentences.
+
+Memory palace:
+Using a recognized place to store things.
+
+====================================================================================================
+
+Week 4
+======
+Renaissance Learning and Unlocking Your Potential
+
+How to Become a Better Learner
+------------------------------
+1. Physical exercise - increase the production and survive of new neurons.
+2. Practice can repair, as well as train the brain. But this takes much longer, past the critical period. 
+Learning, planning, and language are the skills that makes us human.
+
+Introduction to Renaissance Learning and Unlocking Your Potential
+-----------------------------------------------------------------
+Learn using metaphor and analogy
+Work profitably with teammates.
+Perform well on tests.
+
+Learning doesn't go progressively. Sometimes, the process will require a step backwards. But, it is temporary frustation.
+
+Create a Lively Visual Metaphor or Analogy
+------------------------------------------
+Finding similarity between ideas is beneficial. Finding an analogy and visual metaphor is topping to similarity technique.
+Create model for everything you want to learn.
+Stories can also use to learn new ideas.
+
+No Need for Genius Envy
+-----------------------
+Try to make sense to complex ideas.
+Sometimes questioning why you're doing it, what you're doing slows you down.
+Practice lift the average brain to genius level.
+
+Imposter Syndrome:
+Fear of losing your competence.
+
+Keep practicing until you're no more a imposter.
+
+Change Your Thoughts, Change Your Life
+--------------------------------------
+Wiring between intention and control is not complete until age 20 for some people.
+We can change significant changes in our brain by changing how we think.
+Approaching the new ideas with the looks of a learner.
+Taking responsibility of own learning is very important.
+
+It's important to learn to switch on an occasional cool dispassion that helps you to not only focus on what you're trying to learn, but also to tune people out if you discover that their interests lie in undercutting you such undercutting is all too common, as people are often just as competitive as they are cooperative.
+
+Lesson 2
+========
+Renaissance Learning and Unlocking Your Potential II
+
+The Value of Teamwork
+---------------------
+Right hemisphere is responsible for getting bigger picture of an idea.
+Left hemisphere is focusing on understanding the idea in deep levels.
+
+In order words, right hemisphere works as BFS.
+And left hemisphere as DFS.
+Always have interaction with both the hemisphere.
+
+The first principle is that you must not fool yourself. And you're easiest person to fool.
+
+Best way to solve a problem is to brainstorm with other sharing similar interests. Sometimes, it is not enough to use more of your own neural horsepower.
+Also, explaining to friends is like talking to your diffuse mode.
+
+A test checklist
+----------------
+Mini-test and final test are very important to check and permanent your learning.
+Have a test checklist to prepare yourself for tests.
+
+Hard Start - Jump to Easy
+-------------------------
+Start with hard problem, but quickly jump with easy problem. This will lead to usage of diffused mode, while working on easy problem using your focused mode.
+Don't struck on a single approach.
+
+Final Helpful Hints for Tests
+-----------------------------
+Change your thinking to tackle your test efficiently.
+Change your thinking to breathing.
+Face your fears. Have a plan "B". Thinking of worst case scenario.
+
+"Good worry" leads to motivation.
+"Bad worry" is waste of time.
+
+==========================================================================================================================
