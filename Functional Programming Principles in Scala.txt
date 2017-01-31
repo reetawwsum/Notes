@@ -1,0 +1,81 @@
+Functional Programming Principles in Scala
+==========================================
+
+Week 1
+======
+
+Functions and Evaluation
+========================
+
+Programming Paradigms
+---------------------
+Paradigm describes distinct concepts or thought patterns in some scientific discipline
+
+Main programming paradigms:
+a. imperative programming
+b. functional programming
+c. logic programming
+
+Orthogonal to it:
+a. object-oriented programming
+
+Imperative programming:
+It is about
+a. modifying mutable variables
+b. using assignments
+c. and control structures such as if-else, loops, break, continue, return.
+
+Functional Programming (FP):
+Restricted sense: Programming without mutable variables, assignments, loops, and other imperative control structures
+Wider sense: functional programming means focusing on the functions
+
+In particular, functions can be values that are produced, consumed, and composed.
+
+Functions in a FP language are first class citizens.
+This means
+a. they can be defined anywhere, including inside other functions.
+b. like any other value, they can be passed as parameters to functions and returned as results.
+c. as for other values, there exists a set of operators to compose functions.
+
+Some FP languages:
+a. Restricted sense
+Pure Lisp, XSLT, XPath, XQuery, FP
+Haskell (without I/O Monad or UnsafePerformIO)
+
+b. Wider sense
+Lisp, Scheme, Racket, Clojure
+SML, Ocaml, F#
+Haskell (full language)
+Scala
+Smalltalk, Ruby
+
+Recommended book:
+Programming in Scala (Martin Odersky)
+
+FP is becoming popular because
+a. simpler reasoning principles
+b. better modularity
+c. good for exploiting parallelism for multicore and cloud computing
+
+Elements of Programming
+-----------------------
+
+Every non-trivial programming language provides:
+a. primitive expressions representing the simplest elements.
+b. ways to combine expressions
+c. ways to abstract expressions, which introduce a name for an expression
+
+FP provides interactive shell (REPL: Read-Eval-Print-Loop)
+	$ scala
+	$ sbt console
+
+Parameter and Return types:
+Function parameters comes with thier type, which is give after the colon
+	$ def power(x: Double, y: Int): Double = ...
+
+If a return type is given, it follows the parameter list
+
+Evaluation of function applications is done via substition model, which gives foundation to FP.
+
+Call-by-value has the advantage that it evaluates every function argument only once.
+Call-by-name has the advantage that a function argument is not evaluated if the corresponding parameter is unused in the evaluation of the function body.
