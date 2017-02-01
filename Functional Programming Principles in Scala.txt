@@ -77,5 +77,82 @@ If a return type is given, it follows the parameter list
 
 Evaluation of function applications is done via substition model, which gives foundation to FP.
 
-Call-by-value has the advantage that it evaluates every function argument only once.
-Call-by-name has the advantage that a function argument is not evaluated if the corresponding parameter is unused in the evaluation of the function body.
+Call-by-value (CBV) has the advantage that it evaluates every function argument only once.
+Call-by-name (CBN) has the advantage that a function argument is not evaluated if the corresponding parameter is unused in the evaluation of the function body.
+
+Evaluation Strategies and Termination
+-------------------------------------
+
+If CBV evaluation of an expression e terminates, then CBN evaluation of e terminates too.
+The other direction is not true.
+
+Scala normally uses CBV.
+But, if the type of a function parameter starts with => it uses CBN
+
+Conditionals and Value Definitions
+----------------------------------
+
+Scala has if-else conditional expression.
+
+For e.g
+	$ def abs(x: Int) = if (x > 0) x else -x
+
+Value Definitions:
+The def form is "by name", its right hand side is evaluated on each use.
+The val form is "by value", its right hand side is evaluated at the point of definition itself.
+
+For e.g
+	$ def loop: Boolean = loop
+
+A definition
+	$ def x = loop # will terminate
+
+But,
+	$ val x = loop # will lead to infinite loop
+
+Example: Square roots with Newtons' method
+------------------------------------------
+
+def sqrtIter(guess: Double, x: Double): Double = 
+	if (isGoodEnough(guess, x)) guess
+	else sqrtIter(improve(guess, x), x)
+
+Recursive functions need an explicit return type in scala.
+
+Blocks and Lexical Scope
+------------------------
+
+Put auxciliary functions inside function which is using it to avoid user to access these functions directly.
+
+Blocks:
+a. A block is delimited by braces { ... }
+b. It contains a sequence of definitions or expressions
+c. The last element of a block is an expression that defines its value
+d. This return expression can be preceded by auxiliary definitions.
+e. Blocks are themselves expressions.
+
+Visibility:
+a. The definitions inside a block are only visible from within the block.
+b. The definitions inside a block shadow definitions of the same name outside the block.
+
+Semicolons:
+In Scala, semicolons at the end of lines are in most cases optional, but if there are more than one statements on a line, they need to be separated by semicolons.
+
+Handle problem in writing huge multi-line expressions:
+a. Use multi-line expressions in parentheses
+b. Use operator on the first line
+
+Tail Recursion
+--------------
+
+In call by value, the occurences of param of a function get replaced by the value of the param passed during calling.
+This is called substitution.
+
+If a function calls itself as its last action, the function's stack frame can be reused. This is called tail recursion.
+Tail recursive functions are iteractive processes.
+
+In general, if the last action of a function consists of calling a function (which may be the same), one stack frame would be sufficient for both functions. Such calls are called tail-calls.
+
+In Scala, only directly recursive calls to the current functions are optimized.
+
+Use @tailrec annotation, which will issue an error if implementation of a function is not tail recursive.
