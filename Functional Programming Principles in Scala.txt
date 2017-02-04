@@ -9,7 +9,8 @@ Functions and Evaluation
 
 Programming Paradigms
 ---------------------
-Paradigm describes distinct concepts or thought patterns in some scientific discipline
+Paradigm describes distinct concepts or thought patterns in some scientific
+  discipline.
 
 Main programming paradigms:
 a. imperative programming
@@ -26,15 +27,18 @@ b. using assignments
 c. and control structures such as if-else, loops, break, continue, return.
 
 Functional Programming (FP):
-Restricted sense: Programming without mutable variables, assignments, loops, and other imperative control structures
+Restricted sense: Programming without mutable variables, assignments, loops,
+  and other imperative control structures
 Wider sense: functional programming means focusing on the functions
 
-In particular, functions can be values that are produced, consumed, and composed.
+In particular, functions can be values that are produced, consumed, and
+  composed.
 
 Functions in a FP language are first class citizens.
 This means
 a. they can be defined anywhere, including inside other functions.
-b. like any other value, they can be passed as parameters to functions and returned as results.
+b. like any other value, they can be passed as parameters to functions and
+  returned as results.
 c. as for other values, there exists a set of operators to compose functions.
 
 Some FP languages:
@@ -70,20 +74,25 @@ FP provides interactive shell (REPL: Read-Eval-Print-Loop)
 	$ sbt console
 
 Parameter and Return types:
-Function parameters comes with thier type, which is give after the colon
+Function parameters comes with their type, which is give after the colon
 	$ def power(x: Double, y: Int): Double = ...
 
 If a return type is given, it follows the parameter list
 
-Evaluation of function applications is done via substition model, which gives foundation to FP.
+Evaluation of function applications is done via substition model, which gives 
+  foundation to FP.
 
-Call-by-value (CBV) has the advantage that it evaluates every function argument only once.
-Call-by-name (CBN) has the advantage that a function argument is not evaluated if the corresponding parameter is unused in the evaluation of the function body.
+Call-by-value (CBV) has the advantage that it evaluates every function argument 
+  only once.
+Call-by-name (CBN) has the advantage that a function argument is not evaluated 
+  if the corresponding parameter is unused in the evaluation of the function
+  body.
 
 Evaluation Strategies and Termination
 -------------------------------------
 
-If CBV evaluation of an expression e terminates, then CBN evaluation of e terminates too.
+If CBV evaluation of an expression e terminates, then CBN evaluation of e
+  terminates too.
 The other direction is not true.
 
 Scala normally uses CBV.
@@ -99,7 +108,8 @@ For e.g
 
 Value Definitions:
 The def form is "by name", its right hand side is evaluated on each use.
-The val form is "by value", its right hand side is evaluated at the point of definition itself.
+The val form is "by value", its right hand side is evaluated at the point of
+  definition itself.
 
 For e.g
 	$ def loop: Boolean = loop
@@ -113,16 +123,17 @@ But,
 Example: Square roots with Newtons' method
 ------------------------------------------
 
-def sqrtIter(guess: Double, x: Double): Double = 
-	if (isGoodEnough(guess, x)) guess
-	else sqrtIter(improve(guess, x), x)
+  $ def sqrtIter(guess: Double, x: Double): Double = 
+	   if (isGoodEnough(guess, x)) guess
+	   else sqrtIter(improve(guess, x), x)
 
 Recursive functions need an explicit return type in scala.
 
 Blocks and Lexical Scope
 ------------------------
 
-Put auxciliary functions inside function which is using it to avoid user to access these functions directly.
+Put auxciliary functions inside function which is using it to avoid user to
+  access these functions directly.
 
 Blocks:
 a. A block is delimited by braces { ... }
@@ -133,10 +144,13 @@ e. Blocks are themselves expressions.
 
 Visibility:
 a. The definitions inside a block are only visible from within the block.
-b. The definitions inside a block shadow definitions of the same name outside the block.
+b. The definitions inside a block shadow definitions of the same name outside
+  the block.
 
 Semicolons:
-In Scala, semicolons at the end of lines are in most cases optional, but if there are more than one statements on a line, they need to be separated by semicolons.
+In Scala, semicolons at the end of lines are in most cases optional, but if
+  there are more than one statements on a line, they need to be separated by
+  semicolons.
 
 Handle problem in writing huge multi-line expressions:
 a. Use multi-line expressions in parentheses
@@ -145,14 +159,156 @@ b. Use operator on the first line
 Tail Recursion
 --------------
 
-In call by value, the occurences of param of a function get replaced by the value of the param passed during calling.
+In call by value, the occurences of param of a function get replaced by the
+  value of the param passed during calling.
 This is called substitution.
 
-If a function calls itself as its last action, the function's stack frame can be reused. This is called tail recursion.
+If a function calls itself as its last action, the function's stack frame can
+  be reused. This is called tail recursion.
 Tail recursive functions are iteractive processes.
 
-In general, if the last action of a function consists of calling a function (which may be the same), one stack frame would be sufficient for both functions. Such calls are called tail-calls.
+In general, if the last action of a function consists of calling a function
+  (which may be the same), one stack frame would be sufficient for both
+  functions. Such calls are called tail-calls.
 
 In Scala, only directly recursive calls to the current functions are optimized.
 
-Use @tailrec annotation, which will issue an error if implementation of a function is not tail recursive.
+Use @tailrec annotation, which will issue an error if implementation of a
+  function is not tail recursive.
+
+Week 2
+======
+
+Higher Order Functions
+======================
+
+Higher Order Functions
+----------------------
+
+In contrast to first order functions, which has datatypes as parameters,
+  functions that take other functions as parameters or that return functions as
+  results are caller Higher Order Functions.
+This provides a flexible way to compose programs.
+
+For e.g
+Take the sum of the integers between a and b:
+
+	$ def sumInts(a: Int, b: Int): Int =
+		  if (a > b) 0 else a + sumInts(a+1, b)
+
+This is special case of
+Sigma f(n) for n = a to b
+
+We can also write:
+
+	$ def sum(f: Int => Int, a: Int, b: Int): Int =
+		  if (a > b) 0 else f(a) + sum(f, a+1, b)
+
+	$ def id(x: Int): Int = x
+
+	$ def sumInts(a: Int, b: Int) = sum(id, a, b)
+
+Here, sum function is a higher order function.
+
+Passing functions as parameters leads to the creation of many small functions.
+  In order to overcome this, we'll write a function without giving it a name,
+  which are otherwise called anonymous functions.
+
+For e.g
+  
+  $ (x: Int) => x * x * x
+
+Here, (x: Int) is the parameter of the function, and x * x * x is the body.
+
+Using annonymous functions:
+
+  $ def sum(f: Int => Int, a: Int, b: Int): Int =
+    if (a > b) 0 else f(a) + sum(f, a+1, b)
+
+  $ def sumInts(a: Int, b: Int) = sum(x => x, a, b)
+
+This is using linear recursion, but we can optimized it using tail recursion.
+
+  $ def sum(f: Int => Int, a: Int, b: Int): Int = {
+      def loop(acc: Int, x: Int): Int = {
+        if (x > b) acc
+        else loop(f(x) + acc, x + 1)
+      }
+      loop(a, 0)
+    }
+
+  $ sum(x => x, 1, 10)
+
+Currying
+--------
+
+Functions returning functions.
+
+For e.g
+
+  $ def sum(f: Int => Int): (Int, Int) => Int = {
+      def sumF(a: Int, b, Int): Int = {
+        if (a > b) 0
+        else f(a) + sumF(a + 1, b)
+      }
+      sumF
+  }
+
+Hence, we can define
+
+  $ def sumInts = sum(x => x)
+
+Which gives us capability to do
+
+  $ sumInts(2, 3)
+
+Which can be also written as
+
+  $ sum(x => x)(2, 3)
+
+In scala, we can define functions returning functions as follows:
+
+  $ def sum(f: Int => Int)(a: Int, b: Int): Int =
+      if (a > b) 0 else f(a) + sum(f)(a + 1, b)
+
+Here, function type of sum is
+
+  (Int => Int) => (Int, Int) => Int
+
+In general:
+
+  $ def f = (args1 => (args2 => ... (argsn => E) ... ))
+
+This style of definition and function application is called currying.
+
+Example: Finding fixed points
+-----------------------------
+
+The expressive power of a language is greatly increases if we can pass
+  function arguments.
+
+Functions are essential abstractions because they allow us to introduce
+  general methods to perform computations as explicit and named elements
+  in our programming language.
+
+Abstractions can be combined with higher-order functions to create new
+  abstractions.
+
+Scala Syntax Summary
+--------------------
+
+Contex-free syntax in Extended Backus-Naur Form (EBNF), where
+  | denotes an alternative
+  [...] an option (0 or 1)
+  {...} a repetition (0 or more)
+
+Types:
+
+Type = SimpleType | FunctionType
+FunctionType = SimpleType '=>' Type | '(' [Types] ')' '=>' Type
+Simpletype = Ident
+Types = Type {',' Type}
+
+For e.g
+Numeric type: Int, Double
+Function type: Int => Int, (Int, Int) => Int
