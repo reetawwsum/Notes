@@ -312,3 +312,65 @@ Types = Type {',' Type}
 For e.g
 Numeric type: Int, Double
 Function type: Int => Int, (Int, Int) => Int
+
+Functions and Data
+------------------
+
+Classes and Objects.
+
+Packaging functions operating on a data abstraction in the data abstraction
+  itself. Such functions are called methods.
+
+More Fun with Rationals
+-----------------------
+
+One can use 'val' or 'def' while defining fields in order to optimize code.
+This ability to choose different implementations of the data without affecting
+  clients is called data abstraction.
+
+On the inside of a class, the name 'this' represents the object on which the
+  current method is executed.
+
+Use require function to put restrictions on the params.
+
+'require' is a predefined function
+It takes a condition and an optional message string.
+If the condition passed to require is false, an IllegalArgumentException is
+  thrown with the given message string.
+
+Besides require, there is also assert.
+Assert also takes a condition and an optional message string as parameters.
+
+Assert throws 'AssertionError'.
+
+This reflects a difference in intent:
+a. require is used to enforce a precondition on the caller of a function.
+b. assert is used as to check the code of the function itself.
+
+Constructors:
+In Scala, a class implicitly introduces a constructor. This one is called
+  primary constructor of the class.
+
+The primary constructor:
+a. takes the parameter of the class
+b. and executes all statements in the class body.
+
+Use $ def this() to explicitly create a constructor.
+
+Evaluation and Operators
+------------------------
+
+Class and objects also works using substitution method.
+But, instead of one substitution, there are three for each method call.
+
+Operators:
+Step1: Infix Notation
+Any method with a parameter can be used like an infix operator.
+For e.g
+Use r add s in place of r.add(s)
+
+Step2: Relaxed Identifiers
+Operators can be used as identifiers.
+a. Alphanumeric
+b. Symbolic
+c. The underscore character '_'
