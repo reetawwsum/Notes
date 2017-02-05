@@ -374,3 +374,86 @@ Operators can be used as identifiers.
 a. Alphanumeric
 b. Symbolic
 c. The underscore character '_'
+
+Week 3
+======
+
+Data and Abstraction
+====================
+
+Class Heirarchies
+-----------------
+
+Abstract classes: can contain members which are missing an implementation.
+No Instances of an abstract class can be created with the operator new.
+
+Use 'extends' keyword to inherit abstract class and its methods.
+
+If definition of method is already present in base class, one has to mention
+  'override' keyword in subclass while re-definining the method.
+
+One can contain Singleton object in order to restrict users to create more than
+  one object of a class.
+
+How classes are organised
+-------------------------
+
+Packages:
+Classes and Objects are organised in packages.
+To place a class or object inside a package, use package clause at the top
+  of your source file.
+
+Use import to use a class present in a different package in your current.
+import package.class
+import package.{class1, class2}
+import package._
+
+Some entities are automatically imported in any Scala program.
+a. All members of package scala
+b. All members of package java.lang
+c. All members of the singleton object scala.Predef
+
+Traits:
+In Java, as well as in Scala, a class can only have one superclass.
+One can use traits, which is declared like an abstract class, just with trait
+  instead of abstract class.
+
+Classes, Objects, and Traits can inherit from at most one class but arbitary
+  many traits.
+For e.g
+  class Square extends Shape with Planar with Movable ...
+
+Traits resembles interfaces in Java, but are more powerful because they can
+  contain fields and concrete methods.
+
+On the other hand, traits cannot have (value) parameters, only classes can.
+
+Exceptions:
+threw exce
+
+Polymorphism
+------------
+
+Type parameters:
+We can generalize class definition using a type parameter.
+For e.g
+trait List[T]
+class Cons[T]
+
+Like classes, functions can have type parameters.
+For e.g
+def singleton[T](elem: T) = ...
+
+In fact, the Scala compiler can usually deduce the correct type parameters
+  from the value arguments of a function call.
+
+Type parameter do not affect evaluation in Scala.
+This is called type erasure.
+
+Polymorphism means that a function type comes "in many forms".
+a. the function can be applied to arguments of many types.
+b. the type can have instances of many types.
+
+Two principal forms of polymorphism:
+a. subtyping: instances of a subclass can be passed to a base class.
+b. generics: instances of a function or class are created by type param.
