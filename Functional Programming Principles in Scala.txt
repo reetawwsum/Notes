@@ -104,7 +104,7 @@ Conditionals and Value Definitions
 Scala has if-else conditional expression.
 
 For e.g
-	$ def abs(x: Int) = if (x > 0) x else -x
+	$ def abs(x: Int) = if (x >= 0) x else -x
 
 Value Definitions:
 The def form is "by name", its right hand side is evaluated on each use.
