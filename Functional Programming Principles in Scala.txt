@@ -61,6 +61,8 @@ a. simpler reasoning principles
 b. better modularity
 c. good for exploiting parallelism for multicore and cloud computing
 
+Oscon keynote: Working hard to keep it simple
+
 Elements of Programming
 -----------------------
 
