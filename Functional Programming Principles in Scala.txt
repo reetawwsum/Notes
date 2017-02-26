@@ -480,3 +480,183 @@ b. the type can have instances of many types.
 Two principal forms of polymorphism:
 a. subtyping: instances of a subclass can be passed to a base class.
 b. generics: instances of a function or class are created by type param.
+
+Week 4
+======
+
+Types and Pattern Matching
+==========================
+
+Objects Everywhere
+------------------
+
+Pure Object Orientation:
+A pure object-orientation language is one in which every value is an object.
+If the language is based on classes, this means that the type of each value is
+  a class.
+
+Scala is a pure object-oriented language.
+
+One can define JVM's primitive types as a class from first principles.
+
+Functions as Objects
+--------------------
+
+Function values are treated as objects in Scala.
+
+The function types A => B is just abbreviation for the class 
+  scala.Function1[A, B], which is roughly defined as follows.
+
+package scala
+
+trait Function1[A, B] {
+  def apply(x: A): B
+}
+
+So, functions are objects with apply methods.
+
+There are also traits Function2, Function3 ... for which take more parameters.
+(currently upto 22)
+
+Methods are also objects.
+
+Subtyping and Generics
+----------------------
+
+Interactions between subtyping and generics:
+a. bounds
+b. variance
+
+Use bounds during defining return type for functions returning multiple types.
+For e.g
+  $ def assertAllPos(s: InSet): InSet = ...
+
+is not the best way to define return type for the function since it can return
+  empty, or Inset, or exception
+
+Instead use bounds,
+  $ def assertAllPos[S <: InSet](r: S): S = ...
+
+Here "<: InSet" is the upper bound of the type parameter S:
+It means that S can be instantiated only to types that conform to InSet.
+
+Generally,
+a. S <: T means: S is subtype of T
+b. S >: T means: S is supertype of T
+c. S >: T1 <: T2 means: S is any type on the interval between T1 and T2
+
+If A <: B, then everything one can to do with a value of type B one should
+  also be able to do with a value of type A.
+
+Variance
+--------
+
+A type that accepts mutations of its elements should not be covariant.
+But, immutable types can be covariant, if some conditions on methods are met.
+
+Scala let you declare the variance of a type by annotating the type parameter:
+class C[+A] {...} C is covariant
+class C[-A] {...} C is contravariant
+class C[A] {...} C is nonvariant
+
+Typing rules between function types:
+If A2 <: A1 and B1 <: B2, then
+  A1 => B1 <: A2 => B2
+
+So functions are contravariant in their argument type(s) and convariant in their
+  result type.
+
+The Scala compiler will check that there are no problematic combinations when
+  compiling a class with variance annotations.
+Roughly,
+a. covariance type parameters can only appear in method results.
+b. contravariant type parameters can only appear in method parameters.
+c. invariant type parameters can appear anywhere.
+
+Decomposition
+-------------
+
+Creating traits and class results in quadratic increase in method definition.
+
+One solution is to use type tests and type casts, using functions
+isInstanceOf[T]
+asInstanceOf[T]
+
+But, their use in Scala is discouraged, because there are better alternatives,
+  it is not sure whether type cast will work until runtime.
+
+Use Object-Oriented Decomposition, i.e defining methods in the classes itself.
+But, there are limitation to this, where we need non-local knowledge to evaluate
+  a method in a class.
+
+Pattern Matching
+----------------
+
+Decomposition is required to find a general and convenient way to access objects
+  in a extensible class hierarchy.
+
+Case classes:
+Similar to normal class definitions, except that it is preceded by the modifier
+  case. For e.g
+
+trait Expr
+case class Number(n: Int) extends Expr
+case class Sum(e1: Expr, e2: Expr) extends Expr
+
+Pattern Matching is a generalisation of switch from C/Java to class hierachies.
+It's expressed in Scala using the keyword match.
+For e.g
+
+def eval(e: Expr): Int = e match {
+  case Number(n) => n
+  case Sum(e1, e2) => eval(e1) + eval(e2)
+}
+
+General, 
+
+e match {
+  case pattern => expression
+  ...
+}
+
+Patterns are constructed from:
+a. Constructors
+b. variables
+c. wildcard patterns _,
+d. constants
+
+Variables always begins with a lowercase letter.
+Names of constant begin with a capital letter, with exception of the reserved
+  words null, true, false
+
+It is possible to define the pattern matching function as a method in a class.
+
+Lists
+-----
+
+The list is the fundamental data structure in functional programming.
+A list having x1...xn as elements is written List(x1, ..., xn)
+
+For e.g
+val fruits = List("Apple", "Banana")
+
+Difference between lists and arrays:
+a. Lists are immutable - the elements of list cannot be changed.
+b. Lists are recursive, while array are flat.
+
+Like arrays, lists are homogeneous: the elements of a list must all have the
+  same type.
+The type of a list with elements of type T is written as scala.List[T] or 
+  shorter List[T]
+
+All lists are constructed from:
+a. the empty list Nil, and
+b. the construction operator :: (cons)
+
+Operators ending in ":" associate to the right.
+A :: B :: C is interpreted as A :: (B :: C)
+
+Operations on lists:
+head
+tail
+isEmpty
