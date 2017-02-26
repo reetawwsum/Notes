@@ -748,3 +748,123 @@ To prove a property P(xs) for all lists xs,
 a. show that P(Nil) holds (base case)
 b. for a list xs and some element x, show the induction step:
   if P(xs) holds, then P(x :: xs) also holds.
+
+Week 6
+======
+
+Collections
+===========
+
+Other Collections
+-----------------
+
+Lists are linear. Alternative sequence implementation is Vector.
+
+Vector is stored as 32 items or 32 pointers to 32 items and so on to 5 levels.
+Accessing an element in Vector is achieved in log32 (N).
+
+For head or tail lookup, use Lists; otherwie Vectors are fast for maps or reduce
+  operations.
+
+A common base class of List and Vector is Seq, the class of all sequences.
+
+Seq itself is a subclass of Iterable.
+
+Iterable type
+a. Seq type
+  i. List
+  ii. Vector
+  iii. Range
+b. Set type
+c. Map type
+
+Array and String are somewhat similar to Seq type, but they come from Java.
+
+Ranges:
+Ranges is representated as single objects with three fields: lower bound, upper
+  bound, step value.
+
+Three operators:
+to (inclusive), until (exclusive), and by (to determine step value)
+
+For e.g
+val r: Range = 1 until 5
+
+Combinatorial search and for expressions
+----------------------------------------
+
+We can extend the usage of higher order functions on sequences to many
+  calculations which are usually expressed using nested loops.
+
+For expression:
+The for expression is similar to loops in imperative languages, except that it
+  builds a list of the results of all iterations.
+
+For e.g
+persons filter (p => p.age > 20) map (p => p.name)
+converts to
+for (p <- persons if p.age > 20) yields p.name
+
+For in function programming is free from side effects.
+
+The for expression is of the form
+for (s) yield e
+where s is sequence of generators and filters, and e is an expression whose
+  value is returned by an iteration.
+
+Combinatorial search example
+----------------------------
+
+Set are another basic abstraction in Scala collections.
+val s = (1 to 6).toSet
+
+Differences in Sets and Sequences are:
+1. Sets are unordered
+2. Sets do not have duplicate elements.
+3. Fundamental operation on sets is contains.
+s contains 5 // false
+
+Maps
+----
+
+A map of type Map[Key, Value] is a data structure that associates keys of type
+Key with values of type Value.
+
+For e.g
+val roman = Map("I" -> 1, "V" -> 5, "X" -> 10)
+
+Maps are functions.
+So, this will work
+roman("I")
+
+Sorted and GroupBy:
+orderBy on a collection can be expressed by sortWith or sorted.
+groupBy partitions a collection into a map of collections according to a
+  discriminator function f.
+
+There is an operation withDefaultValue that turns a map into a total function.
+
+Putting the pieces together
+---------------------------
+
+Task: Assume you are given a dictionary words as a list of words.
+Design a method translate that
+  translate(phoneNumber)
+produces all phrases of words that can serve as mnemonics for the phone number.
+
+Scala's immutable collections are:
+a. easy to use
+b. concise
+c. safe
+d. fast
+e. universal
+
+Conclusion
+----------
+
+Traits of functional programming:
+a. higher-order functions
+b. case classes and pattern matching
+c. immutable collections
+d. absence of mutable state
+e. flexible evaluation strategies
