@@ -660,3 +660,91 @@ Operations on lists:
 head
 tail
 isEmpty
+
+Week 5
+======
+
+Lists
+=====
+
+More functions on lists
+-----------------------
+
+Sublist and element access:
+xs.length
+xs.last
+xs.init
+xs take n
+xs drop n
+xs(n)
+
+Creating new lists:
+xs ++ ys
+xs.reverse
+xs updated (n, x)
+
+Finding elements:
+xs indexOf x
+xs contains x
+
+Pairs and tuples
+----------------
+
+The pair consisting of x and y is written as (x, y) in Scala.
+For e.g
+val pair = ("answer", 42)
+val (label, value) = pair
+pair._1
+pair._2
+
+A tuple type (T1 ... Tn) is an abbreviation of the type
+  scala.Tuplen[T1, ... Tn]
+
+Implicit Parameters
+-------------------
+
+In order to make the function general, use type parameterization.
+One can also use scala.math.Ordering[T]
+
+Use implicit in front of ordering to let compiler figure out the correct type.
+
+Higher Order List Functions
+---------------------------
+
+Rather than creating cases in function definition, one can use higher order
+  function, such as 
+a. map
+b. filter
+c. filterNot
+d. partition
+e. takeWhile
+f. dropWhile
+g. span
+
+Reduction of lists
+------------------
+
+Use reduceLeft to reduce list.
+foldLeft is like reduceLeft but takes an accumulator, z, as an additional
+  parameter.
+
+In the same way, we have reduceRight and foldRight
+
+Instead of ((x, y) => x * y), one can write shorter:
+_ * _
+
+Every _ represents a new parameter, going from left to right.
+
+For operators that are associative and commutative, foldLeft and foldRight are
+  equivalent.
+
+Reasoning about Concat
+----------------------
+
+In order to do reasoning about list concat, one can use Structural Induction.
+The principal of structural induction is analogous to natural induction.
+
+To prove a property P(xs) for all lists xs,
+a. show that P(Nil) holds (base case)
+b. for a list xs and some element x, show the induction step:
+  if P(xs) holds, then P(x :: xs) also holds.
