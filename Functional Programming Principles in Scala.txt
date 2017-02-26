@@ -397,6 +397,12 @@ If definition of method is already present in base class, one has to mention
 One can contain Singleton object in order to restrict users to create more than
   one object of a class.
 
+Standalone applications in Scala contains an object with a main method.
+
+object HelloWorld {
+  def main(args: Array[String]) = println("Hello, World!")
+}
+
 How classes are organised
 -------------------------
 
@@ -430,8 +436,23 @@ Traits resembles interfaces in Java, but are more powerful because they can
 
 On the other hand, traits cannot have (value) parameters, only classes can.
 
+Top Types:
+Any: the base type of all types
+AnyRef: the base type of all references types (String, Object, Iterable)
+AnyVal: the base type of all primitive types (Int, Long, Float, Double, Boolean)
+
+The Nothing type:
+It is subtype of every other type.
+Uses:
+a. To signal abnormal termination
+b. As an element type of empty collections
+
+The Null type:
+Every reference class type also has null as a value.
+The type of null is Null.
+
 Exceptions:
-threw exce
+threw Exc
 
 Polymorphism
 ------------
