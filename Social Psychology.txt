@@ -90,3 +90,64 @@ At the same time, they're prone to certain biases and distortions, and once our
 What Other People Think of You
 ------------------------------
 Social impressions are formed very quickly.
+
+Week 2
+======
+The Psychology of Self-Presentation and Persuasion
+
+Attribution Theory: The Whys and Wherefores of Behaviour
+--------------------------------------------------------
+Attribution is the process by which individuals explain the causes of behavior 
+  and events
+
+Understanding Attributions is useful:
+a. It can help us avoid conflict
+b. It can improve relationships
+c. It can increase productivity
+d. It can heighten job satisfaction
+e. It can lead to self-understanding
+
+Harold Kelley's Attributional Framework:
+People usually explain behaviour in terms of:
+a. Person -> Something about the person in question
+b. Entity -> Some enduring feature of the situation
+c. Time -> Something about the particular occasion
+
+Casual attributions are based on:
+a. Consensus -> Do other people respond similarly?
+b. Distinctiveness -> Do other situations elicit the same behaviour?
+c. Consistency -> Does the same thing happen time after time?
+
+Salience and Causal Attribution:
+In general, the more salient a stimulus is, the more likely it is to be viewed
+  as causal.
+Perceptions of causality are partly a function of where one's attention is
+  directed.
+Attention is in turn a function of salience.
+
+Some Twists and Turns When Explaining Behaviour
+-----------------------------------------------
+People ignore consensus informations when making attributions.
+
+The False Uniqueness Effect:
+The false uniqueness effect is the tendency of an individual to underestimate 
+  the extent to which other people share the same positive attitudes and behaviors.
+
+The Fundamental Attribution Error:
+It is the tendency for people "to underestimate the impact of situational factors
+  and overestimate the role of dispositional factors in controlling behaviour".
+
+East Asians are much less likely than Westerners to commit the fundamental
+  attribution error.
+
+Actor-Observer Differences in Attribution:
+The classic finding is that actors are more likely to explain their behaviour
+  as a function of situational factors than are observers.
+The difference is just a bias.
+Actors downplay dispositional explanations, but mainly when the behaviour or
+  outcome is negative.
+To actors, the situation is often most salient.
+To observers, the actor tends to be salient.
+
+Is the Attitude Bone Connected to the Behaviour Bone?
+-----------------------------------------------------
