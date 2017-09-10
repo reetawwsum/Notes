@@ -113,7 +113,7 @@ a. Person -> Something about the person in question
 b. Entity -> Some enduring feature of the situation
 c. Time -> Something about the particular occasion
 
-Casual attributions are based on:
+Causal attributions are based on:
 a. Consensus -> Do other people respond similarly?
 b. Distinctiveness -> Do other situations elicit the same behaviour?
 c. Consistency -> Does the same thing happen time after time?
@@ -151,3 +151,46 @@ To observers, the actor tends to be salient.
 
 Is the Attitude Bone Connected to the Behaviour Bone?
 -----------------------------------------------------
+Attitude can be different from behaviour.
+Attitude-Behaviour inconsistencies.
+
+Why?
+1. Many attitudes relate to any one behaviour.
+2. Many behaviours relate to any one attitude.
+3. Attitude items tend to be more general.
+4. Attitudes and behaviours are often elicited under different conditions.
+
+Attitude and Behaviour are most likely to be related when:
+1. They closely match each other.
+2. The attitude is strong or potent. (e.g acquired through experience)
+3. The attitude is easy to recall and has been stable over time.
+4. People are made aware of themselves and their attitudes.
+5. Outside influences are kept to a minimum.
+
+Cognitive Dissonance and Self-Perception
+----------------------------------------
+Cognitive dissonance is the mental discomfort (psychological stress) experienced 
+  by a person who simultaneously holds two or more contradictory beliefs, ideas, 
+  or values. The occurrence of cognitive dissonance is a consequence of a person's 
+  performing an action that contradicts personal beliefs, ideals, and values; 
+  and also occurs when confronted with new information that contradicts said 
+  beliefs, ideals, and values
+
+Keys parts of Cognitive Dissonance Theory:
+1. The act of holding two incompatible thoughts creates a sense of internal
+  discomfort, or dissonance.
+2. People try to reduce or avoid these feelings of dissonance whenever possible.
+
+Keys parts of Self-Perception Theory:
+1. Individuals come to know their own attitudes, emotions, and other internal
+  states partially by inferring them from observations of their own behaviour
+  and circumstances in which their behaviour occurs.
+2. To the extent that internal cues are weak, ambiguous, or uninterpretable,
+  the individual is functionally in the same position as an outside observer.
+
+Self-perception theory focuses on social inferences and is attributional in nature.
+Cognitive dissonance theory involves a natural tendency to reduce or avoid
+  inner conflict.
+
+Two flavors of Dissonance: Vanilla and Earthworm
+------------------------------------------------
