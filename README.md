@@ -8,6 +8,7 @@ Notes from various online courses
 3. Learning How to Learn: Powerful mental tools to help you master tough subjects, Coursera
 4. Functional Programming Principles in Scala, Coursera
 5. Social Psychology (Wesleyan Univerisity), Coursera
+6. Crash Course: Economics, Youtube
 
 ## Licence
 [The MIT License (MIT)](LICENSE)

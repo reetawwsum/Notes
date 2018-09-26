@@ -1,0 +1,233 @@
+Crash Course: Economics
+=======================
+
+#1
+--
+Intro to Economics
+
+Economics is study of people and choices.
+
+Opportunity Cost:
+The value of next best opportunity.
+
+Assumptions in Econ:
+a. Scarcity:
+The tension between infinite wants and finite resources.
+
+b. Everything has a cost.
+
+Every solution have benefits and cost.
+
+Analize our choices and get most from the limited resources.
+
+Govt. use economical theories to guide public policies.
+Policies are driven by incentives.
+
+Incentives:
+A set of external motivators that explains people's choices.
+
+Macroeconomics:
+The study of producion, employment, prices, and policies on a nationwide scale.
+
+Microeconomics:
+The study of how consumers, workers, and firms interact to generate outcomes
+	in specific markets.
+
+--------------------------------------------------------------------------------
+
+#2
+--
+Specialization and Trade
+
+Progress of humanity through out history:
+a. Life Expectancy
+b. Child Mortality
+c. Income per capita
+
+Industrial revolution leads to people having significant and sustained standard
+	of living.
+
+Specialization makes the country prosperous. It makes people more productive.
+Trading enables to seek more opportunities than the area of specialization.
+
+Specialization and Trade makes the world better off.
+
+Production Possibilities Frontier (PPF) Graphs.
+
+Individuals and countries should specialize in producing things in which they
+	have a comparative advantage and then trade with other countries that 
+	specialize in something else. This trade is mutually beneficial.
+
+Countries cut off from world (Trade) are less economical countries. For e.g Iran
+
+Self Efficiency is inefficiency and inefficiency can lead to poverty.
+
+--------------------------------------------------------------------------------
+
+#3
+--
+Economic Systems
+
+Economic systems has three figures:
+a. What will be produce?
+b. How will we produce it?
+c. Who gets it?
+
+Two difference economic systems:
+a. Market Economy
+b. Planned Economy
+
+Economy is defined by who owns and controls the factors of production. These are 
+	major inputs required to produce stuff like land, labour, and capital.
+
+Planned Economy:
+Govt. controls the factors of production.
+
+In both communism and socialism, there is economic planning, and the govt. helps
+	decide what to produce, how to produce, and who gets it.
+
+Command Economy: Extreme case of planned economy. Govt. controls everything.
+
+Free Market (Capitalist) Economy:
+Individuals own the factors of production.
+
+Invisible Hand:
+The unintended social benefits resulting from individuals actions.
+
+Invisible hand of the free market is the idea that individuals and businesses
+	meet society's needs when they seek their own self-interest.
+
+Free market limitations:
+a. Maintaining the rule of law
+b. Public good and services, like road, bridges, education, and defense.
+c. Market get things wrong, like pollution emission, regulating production.
+
+Modern economies are neither completely free market nor planned. There's a spectrum
+	of govt. involvement.
+
+North Korea is command economy.
+New Zealand is free market economy.
+In the middle, we have the rest of the world.
+
+The Circular Flow Model:
+Modern economy is made up of 
+a. Households
+b. Businesses
+c. Govt.
+
+Businesses sell goods and services to households in the product market.
+Households earn the money by selling the resources, like labor, to businesses in 
+	resource market.
+The business use the money they earn in product market to pay for resources in the
+	resource market.
+
+Govt. also buys products and resources.
+Govt. get the money from taxing households and businesses, and borrowing.
+
+There are no solutions, only trade-offs.
+
+--------------------------------------------------------------------------------
+
+#4
+--
+Supply and Demand
+
+Market:
+Any place where buyers and sellers meet to exchange goods and services.
+
+Market involves voluntary exchange.
+
+Price Signals:
+The information that markets generate to guide the distribution of resources.
+
+Supply and demand curve:
+If supply is greater than demand, then it's a surplus
+If demand is greater than supply, then it's a shortage
+If supply is equal to demand, then it's equilibrium.
+
+Four market behaviours:
+a. Supply can increase
+b. Supply can decrease
+c. Demand can increase
+d. Demand can decrease
+
+Market concept should not be used during emergencies, ethical situations.
+Market must be regulated.
+
+Economists and politicians often refer to the interaction of supply and demand as
+	laws.
+
+--------------------------------------------------------------------------------
+
+#5
+--
+Macroeconomics
+
+The study of the entire economy as a whole rather than individual markets.
+Such as unemployment, inflation, interest rates, and govt. policies.
+
+Macroeconomics came after 1930 great depression.
+
+Macroeconomists make predictions based on data, theoretical models and historical
+	trends.
+
+In economics, it's nearly impossible to control all the different variables.
+
+Policy makers have three economic goals:
+a. Keep the economy growing over time
+b. Limit unemployment
+c. Keep prices stable
+
+Three specific measurements to see if a country is achieving above goals:
+a. Gross Domestic Product
+b. Unemployment Rate
+c. Inflation Rate
+
+GDP is the value of all final goods and services produced within a country's 
+	border in a specific period of time, usually a year.
+
+GDP doesn't include all the transaction occuring inside a country. For e.g
+	a company buying another company. It also doesn't include illegal activity.
+
+Real GDP, which is adjusted for inflation.
+
+Recession happends when two successive quarters, or six months shows a decrease 
+	in real GDP.
+
+Depression is a severe recession.
+
+Unemployment rate = # Unemployed people / # of people in labour force * 100
+
+The official unemployment rate underestimates the problems in the labour market.
+
+Three types of unemployment:
+a. Frictional unemployment: The time period between jobs when a worker is searching
+	for, or transitioning from one job to another.
+b. Structural unemployment: Caused by lack of demand for a worker's specific type of
+	labor.
+c. Cyclical unemployment: Unemployment due to recession.
+
+Goal is to have no cyclical unemployment.
+
+GDP and unemployment rate are inversely proportional.
+
+Inflation: An increase in a currency supply relative to the number of people using it,
+	resulting in rising prices of goods and services over time.
+
+Deflation: A decrease in the general level of good and services.
+
+Inflation is measured by tracking the prices of a set amount of commonly purchased
+	items, known as market basket.
+
+The inflation rate is the percent change in the price of that basket over time.
+
+Too much inflation is bad because it decreases the purchasing power of the money.
+Deflation discourage people from spending since they might expect prices to fall
+	more in the future. Less spending in the economy means GDP is gonna decrease
+	and unemployment's gonna increase.
+
+Components of GDP:
+a. Consumer spending
+b. Business spending
+c. Govt. spending
+d. Net exports
