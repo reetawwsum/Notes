@@ -231,3 +231,110 @@ a. Consumer spending
 b. Business spending
 c. Govt. spending
 d. Net exports
+
+--------------------------------------------------------------------------------
+
+#6
+--
+Productivity and Growth
+
+Why some countries are rich and some are poor?
+GDP per capita is used to determine how wealthy a country is.
+
+GDP of the country divided by its population.
+
+GDP per capita is used to determine the standard of living. 
+
+GDP is affected by
+Natural resources
+Govt.
+Productivity: Ability to produce more output, per worker, per hour.
+
+Factors of production:
+a. Land
+b. Labor
+c. Capital
+d. Human Capital
+
+Connectivity = Productivity
+
+--------------------------------------------------------------------------------
+
+#7
+--
+Inflation and Bubbles and Tulips
+
+Purchasing Power:
+The amount of physical goods and services that can be bought by a given amount of
+	money.
+
+Rise in prices = Cut in wages
+
+Bubbles:
+A market phenomenon characterized by surges in asset prices to levels significant
+	 above the fundamental value of that asset.
+
+Consumer basket is used to calculate inflation rate.
+
+Consumer Price Index: A statistical estimate constructed using the prices of a 
+	sample of representative items whose prices are collected periodically.
+
+"Real": Price from the past adjusted for inflation.
+"Nominal": Price from the past hasn't been adjusted for inflation.
+
+Being rich is not how much money you have, it's how much purchasing power you have.
+
+What causes inflation:
+Demand Pull Inflation - too much money chasing too few goods.
+Cost Push Inflation - Shortage of goods by producers.
+
+Speculation: Trading a financial instrument involves high risk, in expectation of
+	significant returns.
+
+NINJA Loans:
+No Interest, No Job, No Assets
+
+--------------------------------------------------------------------------------
+
+#8
+--
+Fiscal Policy and Stimulus
+
+Recessionary Gap:
+A situation wherein the real GDP is lower than the potential GDP at the full
+	employment level.
+
+Inflationary Gap:
+Real GDP exceeds potential GDP.
+
+Both are bad for economy.
+
+High unemployment rate leads to higher
+a. Suicide rate
+b. Domestic violence
+c. Social upheavel
+
+Fiscal Policy:
+The way a govt. adjusts its spending levels and tax rates to monitor and influence
+	a nation's economy.
+
+The govt. alter the govt. spending or income using fiscal policies.
+
+Fiscal policies acts as a stimulus to the macro economy of a country.
+
+Stimulus has multiplier effect. Different policies has different multiplier effect.
+Tax cut has 1 multiplier effect.
+Construction of bridges and dams has 2.
+
+--------------------------------------------------------------------------------
+
+#9
+--
+Deficits and Debts
+
+Budget deficit is the amount by which a govt. spending exceeds its income over a
+	particular amount of time.
+
+Debt: accumulation of budget deficits.
+
+Debt as a percent of GDP.

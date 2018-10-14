@@ -194,3 +194,7 @@ Cognitive dissonance theory involves a natural tendency to reduce or avoid
 
 Two flavors of Dissonance: Vanilla and Earthworm
 ------------------------------------------------
+1. Predecisional dissonance: in which dissonance influences decisions.
+2. Postdecisional dissonance: in which dissonance follows a choice that has
+  already been made, and efforts to avoid or reduce this dissonance affect later
+  judgements.
