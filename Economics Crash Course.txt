@@ -27,7 +27,7 @@ Incentives:
 A set of external motivators that explains people's choices.
 
 Macroeconomics:
-The study of producion, employment, prices, and policies on a nationwide scale.
+The study of production, employment, prices, and policies on a nationwide scale.
 
 Microeconomics:
 The study of how consumers, workers, and firms interact to generate outcomes
@@ -350,3 +350,299 @@ When govt. default its debt, the investors who loaned the govt. money lose billi
 	and the govt. loses all credibility, and it causes a massive recession.
 
 Debt Ceiling: Limit on the amount of national debt that can be issued by the treasury.
+
+--------------------------------------------------------------------------------
+
+#10
+---
+Monetary Policy and the Federal Reserve
+
+Federal Reserve is central bank of US. Central banks has two important jobs:
+a. Regulate and oversee the nation's commerical banks.
+b. Conduct monetary policy which is increasing or decreasing the money supply
+	to speed up or slow down the overall economy.
+
+Interest Rate: The price of borrowing money.
+
+Central bank directly or indirectly manuplates the interest rate for all kinds
+	of loans.
+
+Expansionary Monetary Policy: Decrease the interest rate
+Contractionary Monetary Policy: Increase the interest rate
+
+Banks fails due to lack of liquid assets.
+
+Liquid Assets:
+An asset that can be converted into cash quickly and with minimal impact to the
+	price received.
+
+Three ways monetary policies works:
+a. When we save our money in bank, bank holds a portion of our money and loans rest
+	out. This is called reserve requirement.
+
+b. Discount Rate is the interest rate at which banks takes loan from central bank.
+
+c. Open market operations: Central bank buys or sells short term govt. bonds.
+ 
+During 2008 recession, federal reserve used govt. bonds to lend money to banks.
+Also, MBS and other securities.
+
+Two ways economist speed up or slow down the economy:
+a. Fiscal Policy: Changing govt. spending or taxes
+b. Monetary Policy: Changing the money supply
+
+--------------------------------------------------------------------------------
+
+#11
+---
+Money and Finance
+
+Barter System: Exchaning goods with goods or services.
+
+Purpose of money:
+a. Medium of exchange
+b. Store of value
+c. Unit of account
+
+Money is not only cash and coins, it is anything which is accepted as medium of
+	exchange.
+In modern economy, money is digital.
+
+Bitcoin is more speculative in nature, thus resulting in less useful in day to
+	day goods exchange.
+
+In past, money could be exchange with same amount of gold, which was called
+	gold standard. Countries couldn't issue more money than its gold reserve.
+
+Stock market is an piece of financial system.
+
+Three key players:
+a. Lenders: who have money and want to generate more money
+b. Borrowers: who need money now and will repay it in future
+c. Govt.
+
+Financial System: A network of institutions, markets, and contracts that brings
+	lenders and borrowers together.
+
+Three types of financial system:
+a. Banks
+b. Bonds
+c. Stock Market
+
+Banks and bonds deals with debt.
+Stocks are equity.
+
+Bonds and stocks are tradeable asset known as financial instrument.
+Bonds are debt instruments.
+Stocks are equity instruments.
+
+Banks are financial institutions that conducts financial transactions such as
+	investments, loans, and deposits.
+
+Financial system reduces the risk by spreading it amoung mutiple entities.
+
+--------------------------------------------------------------------------------
+
+#12
+---
+Financial Crisis
+
+Mortgage: House loan contract given to a bank by individuals, which stats that
+	every month individual has to pay small amount of principal and interest.
+
+Default: When a debtor is unable to meet the legal obligation of debt repayment.
+
+Banks oftens sells the mortgage to third party.
+
+Mortgage Backed Security (MBS): Security build over large number of mortgages.
+	This process is known as securitization.
+
+MBS got AAA ratings - the best of the best.
+
+Subprime mortgages: A loan granted to individuals with poor credit ratings.
+
+Collateralized Debt Obligations (CDO)
+
+Problem happened by individuals default on the loans and housing price started
+	declining.
+
+Credit Default Swaps (CDS): Sold against CDO and MBS.
+
+Big financial institutions went to bankruptcy.
+
+Govt. started TARP (Troubled Assets Relief Problem) to bailout the big financial
+	institutions.
+
+Perverse Incentive: When a policy ends up having a negative effect, opposite of
+	what is intended.
+
+Moral Hazard: When one person takes on more risk because someone else bears the
+	burden of that risk.
+
+--------------------------------------------------------------------------------
+
+#13
+---
+Recession, Hyperinflation, and Stagflation
+
+Hyperinflation:
+When a country experiences a monthly inflation rate of over 50% or around 13000%
+	annual inflation.
+
+Examples:
+Germany (1923)
+Zimbabwe (2007)
+Hungary (1946)
+
+Hyperinflation erodes wealth.
+
+Reason of inflation:
+Printing more money by govt.
+Increase in velocity of money, i.e number of times a dollar is spent.
+
+Depression: Real GDP is falling for multiple years
+
+Stagflation: When output slows down or stops, or stagnates, at the same time that
+	price rise. Stagnant + Inflation = Stagflation
+
+--------------------------------------------------------------------------------
+
+#14
+---
+Economic Schools of Thoughts
+
+Economical theories are constantly being proven, disproven, and revised.
+
+When both focus on what they're best at and then trade, everyone benefits.
+
+a. Classical Economics
+
+During recession it is necessary for the govt. to get involved by using monetary
+	and fiscal policy to increase output and decrease unemployement.
+
+b. Keynesian Economics
+
+Socialism:
+System where means of producing and distributing goods is owned collectively
+	or by centralized govt.
+
+c. Austrian School of Economics: Reject all monetary and fiscal policies
+
+d. Chicago School of Economics
+
+e. Monetarists:
+Focused on price stability and argue that money supply should be increased slowly
+	and predictably to allow for the steady growth.
+
+f. Supply-Side Economics: Deregulation and cutting taxes
+
+g. New Neoclassical Synthesis
+
+--------------------------------------------------------------------------------
+
+#15
+---
+Imports, Exports, and Exchange Rates
+
+International Trade
+
+Net Exports: The annual difference between a country's exports and imports.
+Trade Surplus: Export > Import
+Trade Deficit: Export < Import
+
+It doesn't make sense to make everything on your own if you can trade with other
+	countries that have a comparative advantage.
+
+International trade reshuffle the jobs from one sector to another.
+
+Protectionism:
+Placing high tariffs on imports and limiting the number of foreign goods to protect
+	local businesses.
+
+Exchange Rate: How much your currency is worth when you trade it for another
+	country's currency.
+
+Import and exports of a country changes its exchange rate.
+
+Balance of Payments:
+a. Current Account: records the sale and purchase of goods and services, investment
+	income earned abroad, and other transfers like donations and foreign aid
+b. Financial Account: record the purchase and sale of financial assets like stocks
+	and bonds.
+
+--------------------------------------------------------------------------------
+
+#16
+---
+Globalization and Trade and Poverty
+
+Poverty line/threshold:
+The minimum level of income deemed adequate in a particular country
+
+Extreme Poverty:
+A condition characterized by severe deprivation of basic human needs, including
+	food, safe drinking water, sanitation facilities, health, shelter, education,
+	and information.
+
+Globalization started after world war II, where almost all of the countries start
+	international trade.
+
+Mobile phones are the "single most transformative technology" when it comes to
+	the developing world.
+
+Opponents of globalization calls it exploitation and oppression.
+
+Poor poeple are the world's greatest entrepreneurs. Every day, they must innovate
+	in order to survive.
+
+--------------------------------------------------------------------------------
+
+#17
+---
+Income and Wealth Inequality
+
+Two types of economic inequality:
+a. Wealth Inequality
+b. Income Inequality
+
+Wealth: Accumulated assets minus liabilities
+Income: New earnings added to wealth
+
+At first countries' incomes were all bunched together, but with the industrial
+	revolution the differences exploded.
+
+The triumph of globalization and market capitalism has improved living standard
+	of billions while concentrating billions among the few.
+
+Skill-Biased Technological Change:
+
+Progressive Tax:
+A tax in which the tax rate increases as the taxable amount increases.
+
+--------------------------------------------------------------------------------
+
+#18
+---
+Marginal Analysis, Roller Coasters, Elasticity, and Van Gogh
+
+Marginal Analysis: An analysis of how individuals, businesses, and govt. make
+	decision.
+Additional benefit vs the additional cost.
+Marginal benefit vs the marginal cost.
+
+Law of diminishing marginal utility
+
+Utility: Satisfaction, or happiness people get from consuming a good or service.
+
+Utils: A unit used to quantify satisfaction; they are completely subjective.
+
+Diamond vs water:
+Total utility from water is very high, but marginal utility is very low.
+Diamonds on the other hand, due to low availability, makes it high marginal util.
+
+Substitution Effect:
+As prices rise consumers will replace more expensive items with less costly 
+	alternatives.
+
+Elasticity of Supply/Demand:
+How senstive quantity is when prices are changed.
